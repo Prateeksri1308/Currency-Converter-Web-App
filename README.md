@@ -54,13 +54,13 @@ A responsive and stylish **Currency Converter** built using **HTML, CSS, JavaScr
 
 ```bash
 1. Clone the repository:
-   git clone https://github.com/YourUsername/currency-converter.git
+   git clone https://github.com/Prateeksri1308/Currency-Converter-Web-App
 
 2. Navigate into the folder:
-   cd currency-converter
+   cd Currency-Converter-Web-App
 
 3. Open index.html in your browser:
-   start index.html
+   start converter.html
 
 -------------
 
@@ -103,6 +103,6 @@ Prateek Srivastava
 
 🔗 GitHub: github.com/Prateeksri1308
 
-🔗 LinkedIn: linkedin.com (Add your real link)
+🔗 LinkedIn: https://www.linkedin.com/in/prateek-srivastava-backend
 
 🌍 Portfolio: Coming soon...
