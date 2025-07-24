@@ -106,9 +106,3 @@ Prateek Srivastava
 🔗 LinkedIn: linkedin.com (Add your real link)
 
 🌍 Portfolio: Coming soon...
-
-
----
-
-✅ **Copy this entire block** into your `README.md` file.  
-📦 Let me know if you want this hosted live on GitHub Pages or need a downloadable version.
