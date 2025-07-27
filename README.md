@@ -41,7 +41,7 @@ A responsive and stylish **Currency Converter** built using **HTML, CSS, JavaScr
 -------------
 ## 📂 File Structure
 .
-├── converter.html
+├── index.html
 ├── converter.css
 ├── converter.js
 ├── countries.js
